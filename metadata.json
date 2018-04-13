@@ -9,7 +9,7 @@
   "issues_url": "https://github.com/javiermlm/puppet_ipv6/issues",
   "operatingsystem_support": [
     {
-      "operatingsystem": "RedHat"
+      "operatingsystem": "RedHat",
       "operatingsystemrelease": [
         "5",
         "6",
